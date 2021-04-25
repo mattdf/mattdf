@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I work on Ethereum and Ethereum-adjacent protocols, and have an interest in formal methods and cryptography. Currently working on tooling to help write more secure smart contracts.
+
+[![mattdf's github stats](https://github-readme-stats.vercel.app/api?username=mattdf&count_private=true&show_icons=true&theme=onedark)](https://github.com/mattdf)
+
 <!--
 **mattdf/mattdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
